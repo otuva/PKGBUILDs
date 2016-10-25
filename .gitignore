@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # package src/pkg archives, downloaded sources
 *.tar*
 *.tgz
@@ -24,3 +25,8 @@
 
 # lock file
 pkg.lock
+=======
+/src/
+/pkg/
+/safeeyes*
+>>>>>>> dde9773 (1.0.6)
