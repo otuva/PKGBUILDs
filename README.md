@@ -1,3 +1,5 @@
+# not using arch (btw) anymore
+
 # PKGBUILDs
 
 This repository contains the packages I maintain in AUR, checked into git as subtrees for easier management and pull requests.
